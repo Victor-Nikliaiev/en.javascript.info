@@ -12,7 +12,7 @@ For instance, here all exports are valid:
 
 ```js
 // export an array
-*!*export*/!* let months = ['Jan', 'Feb', 'Mar','Apr', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+*!*export*/!* let months = ['Jan', 'Feb', 'Mar','Apr', 'May', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 // export a constant
 *!*export*/!* const MODULES_BECAME_STANDARD_YEAR = 2015;
